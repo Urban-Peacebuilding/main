@@ -383,6 +383,8 @@ $(window).on('load', function() {
       }).addTo(map);
     }
 
+      
+      
     var markers = [];
 
     var markActiveColor = function(k) {
@@ -434,6 +436,9 @@ $(window).on('load', function() {
       } else {
         markers.push(null);
       }
+
+    
+
 
       // Add chapter container
       var container = $('<div></div>', {
@@ -703,25 +708,24 @@ $(window).on('load', function() {
       }
     }
     map.fitBounds(bounds);
-    
+
     //Add static markers
-      var customIcon = L.Icon.extend({
-        options: {
-            iconSize:     [22, 22],
-            iconAnchor:   [10, 35],
-            popupAnchor:  [0, -15]
-        }
-      });
+    var customIcon = L.Icon.extend({
+      options: {
+          iconSize:     [22, 22],
+          iconAnchor:   [10, 35],
+          popupAnchor:  [0, -15]
+      }
+    });
 
-      var mosqueIcon = new customIcon({iconUrl: 'markers/mosque.png'}),
-      churchIcon = new customIcon({iconUrl: 'markers/church.png'}),
-      storeIcon = new customIcon({iconUrl: 'markers/store.png'});
+    var mosqueIcon = new customIcon({iconUrl: 'markers/mosque.png'}),
+    churchIcon = new customIcon({iconUrl: 'markers/church.png'}),
+    storeIcon = new customIcon({iconUrl: 'markers/store.png'});
 
-      L.marker([7.99857615670883, 124.292875784581],{ icon: mosqueIcon}).bindPopup(batomosque, {maxWidth: 600}).addTo(map); //Bato Mosque
-      L.marker([7.9972321, 124.2905965],{ icon: storeIcon}).bindPopup(padian, {maxWidth: 600}).addTo(map);; //Padian
-      L.marker([8.00080890122295, 124.293243929985],{ icon: mosqueIcon}).bindPopup(grandmosque, {maxWidth: 600}).addTo(map); //Grand Mosque
-      L.marker([7.996998, 124.294523],{ icon: churchIcon}).bindPopup(cathedral, {maxWidth: 600}).addTo(map);//St Mary's Cathedral
-
+    L.marker([7.99857615670883, 124.292875784581],{ icon: mosqueIcon}).bindPopup(batomosque, {maxWidth: 600}).addTo(map); //Bato Mosque
+    L.marker([7.9972321, 124.2905965],{ icon: storeIcon}).bindPopup(padian, {maxWidth: 600}).addTo(map);; //Padian
+    L.marker([8.00080890122295, 124.293243929985],{ icon: mosqueIcon}).bindPopup(grandmosque, {maxWidth: 600}).addTo(map); //Grand Mosque
+    L.marker([7.996998, 124.294523],{ icon: churchIcon}).bindPopup(cathedral, {maxWidth: 600}).addTo(map);//St Mary's Cathedral
     $('#map, #narration, #title').css('visibility', 'visible');
     $('div.loader').css('visibility', 'hidden');
 
