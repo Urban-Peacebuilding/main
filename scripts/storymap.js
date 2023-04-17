@@ -707,8 +707,8 @@ $(window).on('load', function() {
     //Add static markers
       var customIcon = L.Icon.extend({
         options: {
-            iconSize:     [30, 30],
-            iconAnchor:   [15, 15],
+            iconSize:     [22, 22],
+            iconAnchor:   [10, 35],
             popupAnchor:  [0, -15]
         }
       });
