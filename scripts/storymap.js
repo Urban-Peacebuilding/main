@@ -117,7 +117,7 @@ $(window).on('load', function() {
 
             '<div class="tab" id="tab-1">' +
             '<div class="content">' +
-            '<b><img src="media/bato-mosque-before.png"/></b>' +
+            '<b><img src="media/bato-mosque-before.jpg"/></b>' +
             '<div class="tabtitle">' +
             '<b> Before the Siege </b>' +
             '<div class="caption">' +
@@ -153,7 +153,7 @@ $(window).on('load', function() {
 
             '<div class="tab" id="tab-4">' +
             '<div class="content">' +
-            '<iframe width="560" height="315" src="https://www.youtube.com/embed/_M2rJEExbZ0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>'+
+            '<iframe width="560" height="315" src="https://www.youtube.com/embed/2NFQlXNir_o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>'+
             '<div class="tabtitle">' +
             '<b>Interviews</b>' +            
             '</div>' +
@@ -162,7 +162,7 @@ $(window).on('load', function() {
     
             '<div class="tab" id="tab-5">' +
             '<div class="content">' +
-            '<iframe width="560" height="315" src="https://www.youtube.com/embed/_M2rJEExbZ0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>'+
+            '<iframe width="560" height="315" src="https://www.youtube.com/embed/YrMhC6nK-mM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>'+
             '<div class="tabtitle">' +
             '<b>Aerial Shots</b>' +            
             '</div>' +
@@ -183,7 +183,7 @@ $(window).on('load', function() {
 
         '<div class="tab" id="tab-1">' +
         '<div class="content">' +
-        '<b><img src="media/grand-mosque-before.png"/></b>' +
+        '<b><img src="media/grand-mosque-before.jpg"/></b>' +
         '<div class="tabtitle">' +
         '<b> Before the Siege </b>' +
         '<div class="caption">' +
@@ -219,7 +219,7 @@ $(window).on('load', function() {
 
         '<div class="tab" id="tab-4">' +
         '<div class="content">' +
-        '<iframe width="560" height="315" src="https://www.youtube.com/embed/_M2rJEExbZ0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>'+
+        '<iframe width="560" height="315" src="https://www.youtube.com/embed/0IcqOPdetRw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>'+
         '<div class="tabtitle">' +
         '<b>Interviews</b>' +            
         '</div>' +
@@ -228,7 +228,7 @@ $(window).on('load', function() {
 
         '<div class="tab" id="tab-5">' +
         '<div class="content">' +
-        '<iframe width="560" height="315" src="https://www.youtube.com/embed/_M2rJEExbZ0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>'+
+        '<iframe width="560" height="315" src="https://www.youtube.com/embed/330N4aragio" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>'+
         '<div class="tabtitle">' +
         '<b>Aerial Shots</b>' +            
         '</div>' +
@@ -249,7 +249,7 @@ $(window).on('load', function() {
 
           '<div class="tab" id="tab-1">' +
           '<div class="content">' +
-          '<b><img src="media/grand-mosque-before.png"/></b>' +
+          '<b><img src="media/padian-before.jpg"/></b>' +
           '<div class="tabtitle">' +
           '<b> Before the Siege </b>' +
           '<div class="caption">' +
@@ -261,7 +261,7 @@ $(window).on('load', function() {
 
           '<div class="tab" id="tab-2">' +
           '<div class="content">' +
-          '<b><img src="media/grand-mosque-during.jpg"/></b>' +
+          '<b><img src="media/padian-during.jpg"/></b>' +
           '<div class="tabtitle">' +
           '<b> During the Siege </b>' +
           '<div class="caption">' +
@@ -273,7 +273,7 @@ $(window).on('load', function() {
 
           '<div class="tab" id="tab-3">' +
           '<div class="content">' +
-          '<b><img src="media/grand-mosque-after.jpg"/></b>' +
+          '<b><img src="media/padian-after.jpg"/></b>' +
           '<div class="tabtitle">' +
           '<b>After the Siege</b>' +
           '<div class="caption">' +
@@ -285,7 +285,7 @@ $(window).on('load', function() {
 
           '<div class="tab" id="tab-4">' +
           '<div class="content">' +
-          '<iframe width="560" height="315" src="https://www.youtube.com/embed/_M2rJEExbZ0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>'+
+          '<iframe width="560" height="315" src="https://www.youtube.com/embed/ERb2sZ0Z-u4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>'+
           '<div class="tabtitle">' +
           '<b>Interviews</b>' +            
           '</div>' +
@@ -294,9 +294,13 @@ $(window).on('load', function() {
 
           '<div class="tab" id="tab-5">' +
           '<div class="content">' +
-          '<iframe width="560" height="315" src="https://www.youtube.com/embed/_M2rJEExbZ0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>'+
-          '<div class="tabtitle">' +
-          '<b>Aerial Shots</b>' +            
+          '<iframe width="560" height="315" src="https://www.youtube.com/embed/HCySbN_wXyo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>'+
+          '<b> Convention Center, Marawi City </b>' +
+          '<iframe width="560" height="315" src="https://www.youtube.com/embed/4BTz1v59TBU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>'+
+          '<b> Peace Park, Marawi City </b>' +
+          '<iframe width="560" height="315" src="https://www.youtube.com/embed/oM8ulHyhS_U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>'+
+          '<b>Sports Complex, Marawi City</b>' + 
+          '<div class="tabtitle">' +                     
           '</div>' +
           '</div>' +
           '</div>' +
@@ -315,7 +319,7 @@ $(window).on('load', function() {
 
         '<div class="tab" id="tab-1">' +
         '<div class="content">' +
-        '<b><img src="media/grand-mosque-before.png"/></b>' +
+        '<b><img src="media/st-marys-cathedral-before.jpg"/></b>' +
         '<div class="tabtitle">' +
         '<b> Before the Siege </b>' +
         '<div class="caption">' +
@@ -327,7 +331,7 @@ $(window).on('load', function() {
 
         '<div class="tab" id="tab-2">' +
         '<div class="content">' +
-        '<b><img src="media/grand-mosque-during.jpg"/></b>' +
+        '<b><img src="media/st-marys-cathedral-during.jpg"/></b>' +
         '<div class="tabtitle">' +
         '<b> During the Siege </b>' +
         '<div class="caption">' +
@@ -339,7 +343,7 @@ $(window).on('load', function() {
 
         '<div class="tab" id="tab-3">' +
         '<div class="content">' +
-        '<b><img src="media/grand-mosque-after.jpg"/></b>' +
+        '<b><img src="media/st-marys-cathedral-after.jpg"/></b>' +
         '<div class="tabtitle">' +
         '<b>After the Siege</b>' +
         '<div class="caption">' +
@@ -351,7 +355,7 @@ $(window).on('load', function() {
 
         '<div class="tab" id="tab-4">' +
         '<div class="content">' +
-        '<iframe width="560" height="315" src="https://www.youtube.com/embed/_M2rJEExbZ0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>'+
+        '<iframe width="560" height="315" src="https://www.youtube.com/embed/CtMgIzxOtSY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>'+
         '<div class="tabtitle">' +
         '<b>Interviews</b>' +            
         '</div>' +
@@ -360,7 +364,7 @@ $(window).on('load', function() {
 
         '<div class="tab" id="tab-5">' +
         '<div class="content">' +
-        '<iframe width="560" height="315" src="https://www.youtube.com/embed/_M2rJEExbZ0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>'+
+        '<iframe width="560" height="315" src="https://www.youtube.com/embed/5-IWQtwXQdo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>'+
         '<div class="tabtitle">' +
         '<b>Aerial Shots</b>' +            
         '</div>' +
@@ -375,6 +379,199 @@ $(window).on('load', function() {
         '<li class="tab-link"> <a href="#tab-5"><span>Aerial Shots</span></a></li>' +
         '</ul>' +
       '</div>';  
+   
+      //Bridges
+      var banggolo = '<div class="tabs">' +
+
+        '<div class="tab" id="tab-1">' +
+        '<div class="content">' +        
+        '<div class="tabtitle">' +
+        '<b> Before the Siege </b>' +
+        '<div class="caption">' +
+        '<b>Three bridges cross Marawi’s Agus River. First is the Banggolo (Agus-1) bridge, which is the main entrance to the center of Marawi City, serving public vehicles going to Gomeza Avenue and Perez Street in Padian (Grand Market). Second is the Mapandi (Agus-2) bridge, located between Barangay Mapandi and Barangay Daguduban and used to be the exit point for public vehicles. Third is the Raya Mandaya bridge, connecting Barangay Pumping and Barangay Raya Mandaya, built to ease traffic congestion at Banggolo bridge. Traditionally, Mranaws used lansa or a small boat to transport their goods to Padian. The construction of the bridges assisted the transportation and commercial needs of the city. Former Mayor Omar Ali Solitario renamed the Banggolo, Mapandi, and Raya Mandaya bridges in 2007 into Bayabao, Baloi, and Masiu, respectively, in honor of the old principalities of Lanao.' +
+        '</div>' +
+        '</div>' +
+        '</div>' +
+        '</div>' +
+
+        '<div class="tab" id="tab-2">' +
+        '<div class="content">' +
+        '<b><img src="media/banggolo-bridge-during.jpeg"/></b>' +
+        '<div class="tabtitle">' +
+        '<b> During the Siege </b>' +
+        '<div class="caption">' +
+        '<b>The Maute/ASG militants took control of the Banggolo, Mapandi, and Raya Mandaya bridges during the Marawi Siege. The elevated location of the barangays near the bridges and the sniper nests that the militants installed in tall buildings, including the Grand Mosque, gave the militants a tactical advantage, hence the delay in the military’s takeover of the city. It was crucial for the military to reclaim the bridges in order to provide logistical support to its troops inside the Most Affected Area (MAA) and protect trapped civilians who were attempting to escape by crossing the bridges. After several offensives that resulted in military casualties, the military successfully took control of the three bridges in September 2017, changing the course of the battle against the militants.</b>' +
+        '</div>' +
+        '</div>' +
+        '</div>' +
+        '</div>' +
+
+        '<div class="tab" id="tab-3">' +
+        '<div class="content">' +
+        '<b><img src="banggolo-bridge-after.jpg"/></b>' +
+        '<div class="tabtitle">' +
+        '<b> After the Siege </b>' +
+        '<div class="caption">' +
+        '<b>The Marawi Siege partially destroyed the three bridges, and their repair was prioritized to enable access to the Most Affected Area (MAA). The rehabilitation of the three bridges, including the widening of Banggolo bridge, was completed in 2022.</b>' +
+        '</div>' +
+        '</div>' +
+        '</div>' +
+        '</div>' +
+
+        '<div class="tab" id="tab-4">' +
+        '<div class="content">' +
+        '<iframe width="560" height="315" src="https://www.youtube.com/embed/-QseXuo-Mo0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>'+
+        '<div class="tabtitle">' +
+        '<b>Interviews</b>' +            
+        '</div>' +
+        '</div>' +
+        '</div>' +
+
+        '<div class="tab" id="tab-5">' +
+        '<div class="content">' +
+        '<iframe width="560" height="315" src="https://www.youtube.com/embed/nqbHWti0ZP0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>'+
+        '<div class="tabtitle">' +
+        '<b>Aerial Shots</b>' +            
+        '</div>' +
+        '</div>' +
+        '</div>' +
+
+        '<ul class="tabs-link">' +
+        '<li class="tab-link"> <a href="#tab-1"><span>Before the Siege</span></a></li>' +
+        '<li class="tab-link"> <a href="#tab-2"><span>During the Siege</span></a></li>' +
+        '<li class="tab-link"> <a href="#tab-3"><span>After the Siege</span></a></li>' +
+        '<li class="tab-link"> <a href="#tab-4"><span>Interviews</span></a></li>' +
+        '<li class="tab-link"> <a href="#tab-5"><span>Aerial Shots</span></a></li>' +
+        '</ul>' +
+      '</div>';  
+
+      var mapandi = '<div class="tabs">' +
+
+      '<div class="tab" id="tab-1">' +
+      '<div class="content">' +        
+      '<div class="tabtitle">' +
+      '<b> Before the Siege </b>' +
+      '<div class="caption">' +
+      '<b>Three bridges cross Marawi’s Agus River. First is the Banggolo (Agus-1) bridge, which is the main entrance to the center of Marawi City, serving public vehicles going to Gomeza Avenue and Perez Street in Padian (Grand Market). Second is the Mapandi (Agus-2) bridge, located between Barangay Mapandi and Barangay Daguduban and used to be the exit point for public vehicles. Third is the Raya Mandaya bridge, connecting Barangay Pumping and Barangay Raya Mandaya, built to ease traffic congestion at Banggolo bridge. Traditionally, Mranaws used lansa or a small boat to transport their goods to Padian. The construction of the bridges assisted the transportation and commercial needs of the city. Former Mayor Omar Ali Solitario renamed the Banggolo, Mapandi, and Raya Mandaya bridges in 2007 into Bayabao, Baloi, and Masiu, respectively, in honor of the old principalities of Lanao.' +
+      '</div>' +
+      '</div>' +
+      '</div>' +
+      '</div>' +
+
+      '<div class="tab" id="tab-2">' +
+      '<div class="content">' +
+      '<b><img src="media/mapandi-bridge-during.jpeg"/></b>' +
+      '<div class="tabtitle">' +
+      '<b> During the Siege </b>' +
+      '<div class="caption">' +
+      '<b>The Maute/ASG militants took control of the Banggolo, Mapandi, and Raya Mandaya bridges during the Marawi Siege. The elevated location of the barangays near the bridges and the sniper nests that the militants installed in tall buildings, including the Grand Mosque, gave the militants a tactical advantage, hence the delay in the military’s takeover of the city. It was crucial for the military to reclaim the bridges in order to provide logistical support to its troops inside the Most Affected Area (MAA) and protect trapped civilians who were attempting to escape by crossing the bridges. After several offensives that resulted in military casualties, the military successfully took control of the three bridges in September 2017, changing the course of the battle against the militants.</b>' +
+      '</div>' +
+      '</div>' +
+      '</div>' +
+      '</div>' +
+
+      '<div class="tab" id="tab-3">' +
+      '<div class="content">' +
+      '<b><img src="mapandi-bridge-after.jpg"/></b>' +
+      '<div class="tabtitle">' +
+      '<b> After the Siege </b>' +
+      '<div class="caption">' +
+      '<b>The Marawi Siege partially destroyed the three bridges, and their repair was prioritized to enable access to the Most Affected Area (MAA). The rehabilitation of the three bridges, including the widening of Banggolo bridge, was completed in 2022.</b>' +
+      '</div>' +
+      '</div>' +
+      '</div>' +
+      '</div>' +
+
+      '<div class="tab" id="tab-4">' +
+      '<div class="content">' +
+      '<iframe width="560" height="315" src="https://www.youtube.com/embed/-QseXuo-Mo0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>'+
+      '<div class="tabtitle">' +
+      '<b>Interviews</b>' +            
+      '</div>' +
+      '</div>' +
+      '</div>' +
+
+      '<div class="tab" id="tab-5">' +
+      '<div class="content">' +
+      '<iframe width="560" height="315" src="https://www.youtube.com/embed/SlETcU4QpV8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>'+
+      '<div class="tabtitle">' +
+      '<b>Aerial Shots</b>' +            
+      '</div>' +
+      '</div>' +
+      '</div>' +
+
+      '<ul class="tabs-link">' +
+      '<li class="tab-link"> <a href="#tab-1"><span>Before the Siege</span></a></li>' +
+      '<li class="tab-link"> <a href="#tab-2"><span>During the Siege</span></a></li>' +
+      '<li class="tab-link"> <a href="#tab-3"><span>After the Siege</span></a></li>' +
+      '<li class="tab-link"> <a href="#tab-4"><span>Interviews</span></a></li>' +
+      '<li class="tab-link"> <a href="#tab-5"><span>Aerial Shots</span></a></li>' +
+      '</ul>' +
+      '</div>'; 
+      
+      var rayamadaya = '<div class="tabs">' +
+
+      '<div class="tab" id="tab-1">' +
+      '<div class="content">' +        
+      '<div class="tabtitle">' +
+      '<b> Before the Siege </b>' +
+      '<div class="caption">' +
+      '<b>Three bridges cross Marawi’s Agus River. First is the Banggolo (Agus-1) bridge, which is the main entrance to the center of Marawi City, serving public vehicles going to Gomeza Avenue and Perez Street in Padian (Grand Market). Second is the Mapandi (Agus-2) bridge, located between Barangay Mapandi and Barangay Daguduban and used to be the exit point for public vehicles. Third is the Raya Mandaya bridge, connecting Barangay Pumping and Barangay Raya Mandaya, built to ease traffic congestion at Banggolo bridge. Traditionally, Mranaws used lansa or a small boat to transport their goods to Padian. The construction of the bridges assisted the transportation and commercial needs of the city. Former Mayor Omar Ali Solitario renamed the Banggolo, Mapandi, and Raya Mandaya bridges in 2007 into Bayabao, Baloi, and Masiu, respectively, in honor of the old principalities of Lanao.' +
+      '</div>' +
+      '</div>' +
+      '</div>' +
+      '</div>' +
+
+      '<div class="tab" id="tab-2">' +
+      '<div class="content">' +
+      '<b><img src="media/raya-madaya-during.jpeg"/></b>' +
+      '<div class="tabtitle">' +
+      '<b> During the Siege </b>' +
+      '<div class="caption">' +
+      '<b>The Maute/ASG militants took control of the Banggolo, Mapandi, and Raya Mandaya bridges during the Marawi Siege. The elevated location of the barangays near the bridges and the sniper nests that the militants installed in tall buildings, including the Grand Mosque, gave the militants a tactical advantage, hence the delay in the military’s takeover of the city. It was crucial for the military to reclaim the bridges in order to provide logistical support to its troops inside the Most Affected Area (MAA) and protect trapped civilians who were attempting to escape by crossing the bridges. After several offensives that resulted in military casualties, the military successfully took control of the three bridges in September 2017, changing the course of the battle against the militants.</b>' +
+      '</div>' +
+      '</div>' +
+      '</div>' +
+      '</div>' +
+
+      '<div class="tab" id="tab-3">' +
+      '<div class="content">' +
+      '<b><img src="raya-madaya-after.jpg"/></b>' +
+      '<div class="tabtitle">' +
+      '<b> After the Siege </b>' +
+      '<div class="caption">' +
+      '<b>The Marawi Siege partially destroyed the three bridges, and their repair was prioritized to enable access to the Most Affected Area (MAA). The rehabilitation of the three bridges, including the widening of Banggolo bridge, was completed in 2022.</b>' +
+      '</div>' +
+      '</div>' +
+      '</div>' +
+      '</div>' +
+
+      '<div class="tab" id="tab-4">' +
+      '<div class="content">' +
+      '<iframe width="560" height="315" src="https://www.youtube.com/embed/-QseXuo-Mo0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>'+
+      '<div class="tabtitle">' +
+      '<b>Interviews</b>' +            
+      '</div>' +
+      '</div>' +
+      '</div>' +
+
+      '<div class="tab" id="tab-5">' +
+      '<div class="content">' +
+      '<iframe width="560" height="315" src="https://www.youtube.com/embed/FXiZWO6BXxc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>'+
+      '<div class="tabtitle">' +
+      '<b>Aerial Shots</b>' +            
+      '</div>' +
+      '</div>' +
+      '</div>' +
+
+      '<ul class="tabs-link">' +
+      '<li class="tab-link"> <a href="#tab-1"><span>Before the Siege</span></a></li>' +
+      '<li class="tab-link"> <a href="#tab-2"><span>During the Siege</span></a></li>' +
+      '<li class="tab-link"> <a href="#tab-3"><span>After the Siege</span></a></li>' +
+      '<li class="tab-link"> <a href="#tab-4"><span>Interviews</span></a></li>' +
+      '<li class="tab-link"> <a href="#tab-5"><span>Aerial Shots</span></a></li>' +
+      '</ul>' +
+      '</div>'; 
 
     // Add zoom controls if needed
     if (getSetting('_zoomControls') !== 'off') {
@@ -662,9 +859,9 @@ $(window).on('load', function() {
 
     $('#contents').append(" \
       <div id='space-at-the-bottom'> \
-        <a href='#top'>  \
-          <i class='fa fa-chevron-up'></i></br> \
-          <small>Top</small>  \
+        <a href='https://srcreyes.github.io/urban-peacebuilding/'>  \
+          <i class='fas fa-home'></i></br> \
+          <small> Home - Urban Peacebuilding </small>  \
         </a> \
       </div> \
     ");
@@ -694,6 +891,7 @@ $(window).on('load', function() {
       });
     }
 
+  
     var bounds = [];
     for (i in markers) {
       if (markers[i]) {
@@ -709,28 +907,35 @@ $(window).on('load', function() {
     }
     map.fitBounds(bounds);
 
-    //Add static markers
-    var customIcon = L.Icon.extend({
-      options: {
-          iconSize:     [22, 22],
-          iconAnchor:   [10, 35],
-          popupAnchor:  [0, -15]
-      }
-    });
-
-    var mosqueIcon = new customIcon({iconUrl: 'markers/mosque.png'}),
-    churchIcon = new customIcon({iconUrl: 'markers/church.png'}),
-    storeIcon = new customIcon({iconUrl: 'markers/store.png'});
-
-    L.marker([7.99857615670883, 124.292875784581],{ icon: mosqueIcon}).bindPopup(batomosque, {maxWidth: 600}).addTo(map); //Bato Mosque
-    L.marker([7.9972321, 124.2905965],{ icon: storeIcon}).bindPopup(padian, {maxWidth: 600}).addTo(map);; //Padian
-    L.marker([8.00080890122295, 124.293243929985],{ icon: mosqueIcon}).bindPopup(grandmosque, {maxWidth: 600}).addTo(map); //Grand Mosque
-    L.marker([7.996998, 124.294523],{ icon: churchIcon}).bindPopup(cathedral, {maxWidth: 600}).addTo(map);//St Mary's Cathedral
     $('#map, #narration, #title').css('visibility', 'visible');
     $('div.loader').css('visibility', 'hidden');
 
     $('div#container0').addClass("in-focus");
     $('div#contents').animate({scrollTop: '1px'});
+
+
+    //Add static markers
+    var customIcon = L.Icon.extend({
+      options: {
+        iconSize:     [22, 22],
+        iconAnchor:   [10, 35],
+        popupAnchor:  [0, -40]
+        }
+    });
+  
+    var mosqueIcon = new customIcon({iconUrl: 'markers/mosque.png'}),
+    churchIcon = new customIcon({iconUrl: 'markers/church.png'}),
+    bridgeIcon = new customIcon({iconUrl: 'markers/bridge.png'}),
+    storeIcon = new customIcon({iconUrl: 'markers/store.png'});
+    
+    L.marker([7.99857615670883, 124.292875784581],{ icon: mosqueIcon}).bindPopup(batomosque, {maxWidth: 600}).addTo(map); //Bato Mosque
+    L.marker([7.9972321, 124.2905965],{ icon: storeIcon}).bindPopup(padian, {maxWidth: 600}).addTo(map); //Padian
+    L.marker([8.00080890122295, 124.293243929985],{ icon: mosqueIcon}).bindPopup(grandmosque, {maxWidth: 600}).addTo(map); //Grand Mosque
+    L.marker([7.996998, 124.294523],{ icon: churchIcon}).bindPopup(cathedral, {maxWidth: 600}).addTo(map);//St Mary's Cathedral
+
+    L.marker([8.001647, 124.2893],{ icon: bridgeIcon}).bindPopup(banggolo, {maxWidth: 600}).addTo(map);//Banggolo Bridge
+    L.marker([8.005059, 124.2935497],{ icon: bridgeIcon}).bindPopup(mapandi, {maxWidth: 600}).addTo(map); //Mapandi Bridge
+    L.marker([8.000457, 124.2888],{ icon: bridgeIcon}).bindPopup(rayamadaya, {maxWidth: 600}).addTo(map);//Raya Madaya Bridge
 
     // On first load, check hash and if it contains an number, scroll down
     if (parseInt(location.hash.substr(1))) {
