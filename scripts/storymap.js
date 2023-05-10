@@ -408,7 +408,7 @@ $(window).on('load', function() {
 
         '<div class="tab" id="tab-3">' +
         '<div class="content">' +
-        '<b><img src="banggolo-bridge-after.jpg"/></b>' +
+        '<b><img src="media/banggolo-bridge-after.jpg"/></b>' +
         '<div class="tabtitle">' +
         '<b> After the Siege </b>' +
         '<div class="caption">' +
@@ -472,7 +472,7 @@ $(window).on('load', function() {
 
       '<div class="tab" id="tab-3">' +
       '<div class="content">' +
-      '<b><img src="mapandi-bridge-after.jpg"/></b>' +
+      '<b><img src="media/mapandi-bridge-after.jpg"/></b>' +
       '<div class="tabtitle">' +
       '<b> After the Siege </b>' +
       '<div class="caption">' +
@@ -536,7 +536,7 @@ $(window).on('load', function() {
 
       '<div class="tab" id="tab-3">' +
       '<div class="content">' +
-      '<b><img src="raya-madaya-after.jpg"/></b>' +
+      '<b><img src="media/raya-madaya-after.jpg"/></b>' +
       '<div class="tabtitle">' +
       '<b> After the Siege </b>' +
       '<div class="caption">' +
