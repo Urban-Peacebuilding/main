@@ -56,9 +56,13 @@
 </head>
 
 <body>
+
   <div id="title">
     <div id="logo"></div>
-    <div id="header"></div>
+      <a href=/ id="navbar__logo"><i class="fas fa-home"></i></br>
+        <small> Home - Urban Peacebuilding </small>
+      </a>
+    <div id="header"></div>    
   </div>
 
   <div id="narration">
@@ -69,13 +73,13 @@
 
   <div class="loader">Loading...</div>
   <div id="map"></div>
-
+  
   <script type="text/javascript">
     // Create the Leaflet map with a generic start point
     var map = L.map('map', {
       center: [0, 0],
       zoom: 1,
-      scrollWheelZoom: false,
+      scrollWheelZoom: true,
       zoomControl: false,
       tap: false
     });
@@ -86,6 +90,6 @@
   <script type="text/javascript" src="scripts/constants.js"></script>
   <script type="text/javascript" src="scripts/jquery.csv.js"></script>
   <script type="text/javascript" src="scripts/storymap.js"></script>
-
+  
 </body>
 </html>
