@@ -928,14 +928,14 @@ $(window).on('load', function() {
     bridgeIcon = new customIcon({iconUrl: 'markers/bridge.png'}),
     storeIcon = new customIcon({iconUrl: 'markers/store.png'});
     
-    L.marker([7.99857615670883, 124.292875784581],{ icon: mosqueIcon}).bindPopup(batomosque, {maxWidth: 600}).addTo(map); //Bato Mosque
-    L.marker([7.9972321, 124.2905965],{ icon: storeIcon}).bindPopup(padian, {maxWidth: 600}).addTo(map); //Padian
-    L.marker([8.00080890122295, 124.293243929985],{ icon: mosqueIcon}).bindPopup(grandmosque, {maxWidth: 600}).addTo(map); //Grand Mosque
-    L.marker([7.996998, 124.294523],{ icon: churchIcon}).bindPopup(cathedral, {maxWidth: 600}).addTo(map);//St Mary's Cathedral
+    L.marker([7.99857615670883, 124.292875784581],{ icon: mosqueIcon}).bindPopup(batomosque, {maxWidth: 600}).bindTooltip("Bato Mosque").addTo(map); //Bato Mosque
+    L.marker([7.9972321, 124.2905965],{ icon: storeIcon}).bindPopup(padian, {maxWidth: 600}).bindTooltip("Padian").addTo(map); //Padian
+    L.marker([8.00080890122295, 124.293243929985],{ icon: mosqueIcon}).bindPopup(grandmosque, {maxWidth: 600}).bindTooltip("Grand Mosque").addTo(map); //Grand Mosque
+    L.marker([7.996998, 124.294523],{ icon: churchIcon}).bindPopup(cathedral, {maxWidth: 600}).bindTooltip("St. Mary's Cathedral").addTo(map);//St Mary's Cathedral
 
-    L.marker([8.001647, 124.2893],{ icon: bridgeIcon}).bindPopup(banggolo, {maxWidth: 600}).addTo(map);//Banggolo Bridge
-    L.marker([8.005059, 124.2935497],{ icon: bridgeIcon}).bindPopup(mapandi, {maxWidth: 600}).addTo(map); //Mapandi Bridge
-    L.marker([8.000457, 124.2888],{ icon: bridgeIcon}).bindPopup(rayamadaya, {maxWidth: 600}).addTo(map);//Raya Madaya Bridge
+    L.marker([8.001647, 124.2893],{ icon: bridgeIcon}).bindPopup(banggolo, {maxWidth: 600}).bindTooltip("Banggolo (Bayabao) Bridge").addTo(map);//Banggolo Bridge
+    L.marker([8.005059, 124.2935497],{ icon: bridgeIcon}).bindPopup(mapandi, {maxWidth: 600}).bindTooltip("Mapandi (Baloi) Bridge").addTo(map); //Mapandi Bridge
+    L.marker([8.000457, 124.2888],{ icon: bridgeIcon}).bindPopup(rayamadaya, {maxWidth: 600}).bindTooltip("Raya Mandaya (Masiu) Bridge").addTo(map);//Raya Madaya Bridge
 
     // On first load, check hash and if it contains an number, scroll down
     if (parseInt(location.hash.substr(1))) {
