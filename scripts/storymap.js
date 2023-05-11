@@ -122,6 +122,7 @@ $(window).on('load', function() {
             '<b> Before the Siege </b>' +
             '<div class="caption">' +
             '<b>The Dansalan Bato Ali Mosque or Bato Mosque is one of the prominent mosques in Marawi City. It was constructed in the 1950s and named after former Marawi City Mayor Sultan Bato Ali. Also called the Maahad or Jameo Dansalan Al-Islamie, the mosque is not just a place of worship but also of Islamic education, housing several classrooms in its basement. It played a central role in the Islamization of Marawi.</b>' +
+            '<b> Photo Credits: <a href="http://nashiibamastura.weebly.com/masjid.htm">Matataid</a> </b>' +
             '</div>' +
             '</div>' +
             '</div>' +
@@ -134,6 +135,7 @@ $(window).on('load', function() {
             '<b> During the Siege </b>' +
             '<div class="caption">' +
             '<b>The Dansalan Bato Ali Mosque or Bato Mosque is one of the prominent mosques in Marawi City. It was constructed in the 1950s and named after former Marawi City Mayor Sultan Bato Ali. Also called the Maahad or Jameo Dansalan Al-Islamie, the mosque is not just a place of worship but also of Islamic education, housing several classrooms in its basement. It played a central role in the Islamization of Marawi.</b>' +
+            '<b> Photo Credits:  Dahlia Simangan, March 2019 </b>' +
             '</div>' +
             '</div>' +
             '</div>' +
@@ -146,6 +148,7 @@ $(window).on('load', function() {
             '<b>After the Siege</b>' +
             '<div class="caption">' +
             '<b>In the aftermath of the Marawi Siege, the Bato Mosque was marked for demolition. The reconstruction started on 16 July 2020 and was completed in September 2022. According to the reconstruction plan, the principal architect consulted with Muslim architect associates, as required by the mosque’s administrator, while the MAMSAR Construction and Industrial Cooperation, mostly staffed by Mranaws, led the reconstruction. The new Bato Mosque features a more “modern” architectural style. The old, bullet-holed minaret has been preserved and displayed at the entrance of the newly built Marawi Museum in the Peace Memorial Park located in the rehabilitated Padian or Grand Market.</b>' +
+            '<b> Photo Credits:  Dahlia Simangan, December 2022 </b>' +
             '</div>' +
             '</div>' +
             '</div>' +
@@ -155,7 +158,7 @@ $(window).on('load', function() {
             '<div class="content">' +
             '<iframe width="560" height="315" src="https://www.youtube.com/embed/2NFQlXNir_o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>'+
             '<div class="tabtitle">' +
-            '<b>Interviews</b>' +            
+            '<b>Interview</b>' +            
             '</div>' +
             '</div>' +
             '</div>' +
@@ -221,7 +224,7 @@ $(window).on('load', function() {
         '<div class="content">' +
         '<iframe width="560" height="315" src="https://www.youtube.com/embed/0IcqOPdetRw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>'+
         '<div class="tabtitle">' +
-        '<b>Interviews</b>' +            
+        '<b>Interview</b>' +            
         '</div>' +
         '</div>' +
         '</div>' +
@@ -287,7 +290,7 @@ $(window).on('load', function() {
           '<div class="content">' +
           '<iframe width="560" height="315" src="https://www.youtube.com/embed/ERb2sZ0Z-u4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>'+
           '<div class="tabtitle">' +
-          '<b>Interviews</b>' +            
+          '<b>Interview</b>' +            
           '</div>' +
           '</div>' +
           '</div>' +
@@ -357,7 +360,7 @@ $(window).on('load', function() {
         '<div class="content">' +
         '<iframe width="560" height="315" src="https://www.youtube.com/embed/CtMgIzxOtSY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>'+
         '<div class="tabtitle">' +
-        '<b>Interviews</b>' +            
+        '<b>Interview</b>' +            
         '</div>' +
         '</div>' +
         '</div>' +
@@ -422,7 +425,7 @@ $(window).on('load', function() {
         '<div class="content">' +
         '<iframe width="560" height="315" src="https://www.youtube.com/embed/-QseXuo-Mo0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>'+
         '<div class="tabtitle">' +
-        '<b>Interviews</b>' +            
+        '<b>Interview</b>' +            
         '</div>' +
         '</div>' +
         '</div>' +
@@ -486,7 +489,7 @@ $(window).on('load', function() {
       '<div class="content">' +
       '<iframe width="560" height="315" src="https://www.youtube.com/embed/-QseXuo-Mo0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>'+
       '<div class="tabtitle">' +
-      '<b>Interviews</b>' +            
+      '<b>Interview</b>' +            
       '</div>' +
       '</div>' +
       '</div>' +
@@ -550,7 +553,7 @@ $(window).on('load', function() {
       '<div class="content">' +
       '<iframe width="560" height="315" src="https://www.youtube.com/embed/-QseXuo-Mo0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>'+
       '<div class="tabtitle">' +
-      '<b>Interviews</b>' +            
+      '<b>Interview</b>' +            
       '</div>' +
       '</div>' +
       '</div>' +
