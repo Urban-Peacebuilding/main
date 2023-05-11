@@ -117,7 +117,7 @@ $(window).on('load', function() {
 
             '<div class="tab" id="tab-1">' +
             '<div class="content">' +
-            '<b><img src="media/bato-mosque-before.jpg"/></b>' +
+            '<b><img src="media/bato-mosque-before.png"/></b>' +
             '<div class="tabtitle">' +
             '<b> Before the Siege </b>' +
             '<div class="caption">' +
@@ -176,7 +176,7 @@ $(window).on('load', function() {
             '<li class="tab-link"> <a href="#tab-1"><span>Before the Siege</span></a></li>' +
             '<li class="tab-link"> <a href="#tab-2"><span>During the Siege</span></a></li>' +
             '<li class="tab-link"> <a href="#tab-3"><span>After the Siege</span></a></li>' +
-            '<li class="tab-link"> <a href="#tab-4"><span>Interviews</span></a></li>' +
+            '<li class="tab-link"> <a href="#tab-4"><span>Interview</span></a></li>' +
             '<li class="tab-link"> <a href="#tab-5"><span>Aerial Shots</span></a></li>' +
             '</ul>' +
       '</div>';
@@ -242,7 +242,7 @@ $(window).on('load', function() {
         '<li class="tab-link"> <a href="#tab-1"><span>Before the Siege</span></a></li>' +
         '<li class="tab-link"> <a href="#tab-2"><span>During the Siege</span></a></li>' +
         '<li class="tab-link"> <a href="#tab-3"><span>After the Siege</span></a></li>' +
-        '<li class="tab-link"> <a href="#tab-4"><span>Interviews</span></a></li>' +
+        '<li class="tab-link"> <a href="#tab-4"><span>Interview</span></a></li>' +
         '<li class="tab-link"> <a href="#tab-5"><span>Aerial Shots</span></a></li>' +
         '</ul>' +
       '</div>';  
@@ -312,7 +312,7 @@ $(window).on('load', function() {
           '<li class="tab-link"> <a href="#tab-1"><span>Before the Siege</span></a></li>' +
           '<li class="tab-link"> <a href="#tab-2"><span>During the Siege</span></a></li>' +
           '<li class="tab-link"> <a href="#tab-3"><span>After the Siege</span></a></li>' +
-          '<li class="tab-link"> <a href="#tab-4"><span>Interviews</span></a></li>' +
+          '<li class="tab-link"> <a href="#tab-4"><span>Interview</span></a></li>' +
           '<li class="tab-link"> <a href="#tab-5"><span>Aerial Shots</span></a></li>' +
           '</ul>' +
       '</div>';  
@@ -378,7 +378,7 @@ $(window).on('load', function() {
         '<li class="tab-link"> <a href="#tab-1"><span>Before the Siege</span></a></li>' +
         '<li class="tab-link"> <a href="#tab-2"><span>During the Siege</span></a></li>' +
         '<li class="tab-link"> <a href="#tab-3"><span>After the Siege</span></a></li>' +
-        '<li class="tab-link"> <a href="#tab-4"><span>Interviews</span></a></li>' +
+        '<li class="tab-link"> <a href="#tab-4"><span>Interview</span></a></li>' +
         '<li class="tab-link"> <a href="#tab-5"><span>Aerial Shots</span></a></li>' +
         '</ul>' +
       '</div>';  
@@ -443,7 +443,7 @@ $(window).on('load', function() {
         '<li class="tab-link"> <a href="#tab-1"><span>Before the Siege</span></a></li>' +
         '<li class="tab-link"> <a href="#tab-2"><span>During the Siege</span></a></li>' +
         '<li class="tab-link"> <a href="#tab-3"><span>After the Siege</span></a></li>' +
-        '<li class="tab-link"> <a href="#tab-4"><span>Interviews</span></a></li>' +
+        '<li class="tab-link"> <a href="#tab-4"><span>Interview</span></a></li>' +
         '<li class="tab-link"> <a href="#tab-5"><span>Aerial Shots</span></a></li>' +
         '</ul>' +
       '</div>';  
@@ -507,7 +507,7 @@ $(window).on('load', function() {
       '<li class="tab-link"> <a href="#tab-1"><span>Before the Siege</span></a></li>' +
       '<li class="tab-link"> <a href="#tab-2"><span>During the Siege</span></a></li>' +
       '<li class="tab-link"> <a href="#tab-3"><span>After the Siege</span></a></li>' +
-      '<li class="tab-link"> <a href="#tab-4"><span>Interviews</span></a></li>' +
+      '<li class="tab-link"> <a href="#tab-4"><span>Interview</span></a></li>' +
       '<li class="tab-link"> <a href="#tab-5"><span>Aerial Shots</span></a></li>' +
       '</ul>' +
       '</div>'; 
@@ -571,7 +571,7 @@ $(window).on('load', function() {
       '<li class="tab-link"> <a href="#tab-1"><span>Before the Siege</span></a></li>' +
       '<li class="tab-link"> <a href="#tab-2"><span>During the Siege</span></a></li>' +
       '<li class="tab-link"> <a href="#tab-3"><span>After the Siege</span></a></li>' +
-      '<li class="tab-link"> <a href="#tab-4"><span>Interviews</span></a></li>' +
+      '<li class="tab-link"> <a href="#tab-4"><span>Interview</span></a></li>' +
       '<li class="tab-link"> <a href="#tab-5"><span>Aerial Shots</span></a></li>' +
       '</ul>' +
       '</div>'; 
