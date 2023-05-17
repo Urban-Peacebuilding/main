@@ -117,12 +117,13 @@ $(window).on('load', function() {
 
             '<div class="tab" id="tab-1">' +
             '<div class="content">' +
-            '<b><img src="media/bato-mosque-before.png"/></b>' +
             '<div class="tabtitle">' +
-            '<b> Before the Siege </b>' +
+            '<h3> Before the Siege </h3>' +
+            '<b><img src="media/bato-mosque-before.png"/></b>' +            
             '<div class="caption">' +
-            '<b>The Dansalan Bato Ali Mosque or Bato Mosque is one of the prominent mosques in Marawi City. It was constructed in the 1950s and named after former Marawi City Mayor Sultan Bato Ali. Also called the Maahad or Jameo Dansalan Al-Islamie, the mosque is not just a place of worship but also of Islamic education, housing several classrooms in its basement. It played a central role in the Islamization of Marawi.</b>' +
-            '<b> Photo Credits: <a href="http://nashiibamastura.weebly.com/masjid.htm">Matataid</a> </b>' +
+            '<h2>The Dansalan Bato Ali Mosque or Bato Mosque is one of the prominent mosques in Marawi City. It was constructed in the 1950s and named after former Marawi City Mayor Sultan Bato Ali. Also called the Maahad or Jameo Dansalan Al-Islamie, the mosque is not just a place of worship but also of Islamic education, housing several classrooms in its basement. It played a central role in the Islamization of Marawi.</h2>' +
+            '<br></br>' +
+            '<h4> Photo Credits: <a href="http://nashiibamastura.weebly.com/masjid.htm"><h4> Matataid </h4></a></h4>' +                
             '</div>' +
             '</div>' +
             '</div>' +
@@ -130,12 +131,13 @@ $(window).on('load', function() {
 
             '<div class="tab" id="tab-2">' +
             '<div class="content">' +
-            '<b><img src="media/bato-mosque-during.jpg"/></b>' +
             '<div class="tabtitle">' +
-            '<b> During the Siege </b>' +
+            '<h3> During the Siege </h3>' +
+            '<b><img src="media/bato-mosque-during.jpg"/></b>' +            
             '<div class="caption">' +
-            '<b>The Dansalan Bato Ali Mosque or Bato Mosque is one of the prominent mosques in Marawi City. It was constructed in the 1950s and named after former Marawi City Mayor Sultan Bato Ali. Also called the Maahad or Jameo Dansalan Al-Islamie, the mosque is not just a place of worship but also of Islamic education, housing several classrooms in its basement. It played a central role in the Islamization of Marawi.</b>' +
-            '<b> Photo Credits:  Dahlia Simangan, March 2019 </b>' +
+            '<h2>The Dansalan Bato Ali Mosque or Bato Mosque is one of the prominent mosques in Marawi City. It was constructed in the 1950s and named after former Marawi City Mayor Sultan Bato Ali. Also called the Maahad or Jameo Dansalan Al-Islamie, the mosque is not just a place of worship but also of Islamic education, housing several classrooms in its basement. It played a central role in the Islamization of Marawi.</h2>' +
+            '<br> </br>' +
+            '<h4>Photo Credits: Dahlia Simangan, March 2019</h4>' +
             '</div>' +
             '</div>' +
             '</div>' +
@@ -143,12 +145,13 @@ $(window).on('load', function() {
     
             '<div class="tab" id="tab-3">' +
             '<div class="content">' +
-            '<b><img src="media/bato-mosque-after.jpg"/></b>' +
             '<div class="tabtitle">' +
-            '<b>After the Siege</b>' +
+            '<h3>After the Siege</h3>' +
+            '<b><img src="media/bato-mosque-after.jpg"/></b>' +            
             '<div class="caption">' +
-            '<b>In the aftermath of the Marawi Siege, the Bato Mosque was marked for demolition. The reconstruction started on 16 July 2020 and was completed in September 2022. According to the reconstruction plan, the principal architect consulted with Muslim architect associates, as required by the mosque’s administrator, while the MAMSAR Construction and Industrial Cooperation, mostly staffed by Mranaws, led the reconstruction. The new Bato Mosque features a more “modern” architectural style. The old, bullet-holed minaret has been preserved and displayed at the entrance of the newly built Marawi Museum in the Peace Memorial Park located in the rehabilitated Padian or Grand Market.</b>' +
-            '<b> Photo Credits:  Dahlia Simangan, December 2022 </b>' +
+            '<h2>In the aftermath of the Marawi Siege, the Bato Mosque was marked for demolition. The reconstruction started on 16 July 2020 and was completed in September 2022. According to the reconstruction plan, the principal architect consulted with Muslim architect associates, as required by the mosque’s administrator, while the MAMSAR Construction and Industrial Cooperation, mostly staffed by Mranaws, led the reconstruction. The new Bato Mosque features a more “modern” architectural style. The old, bullet-holed minaret has been preserved and displayed at the entrance of the newly built Marawi Museum in the Peace Memorial Park located in the rehabilitated Padian or Grand Market.</h2>' +
+            '<br> </br>' +
+            '<h4>Photo Credits: Dahlia Simangan, December 2022</h4>' +
             '</div>' +
             '</div>' +
             '</div>' +
@@ -156,18 +159,20 @@ $(window).on('load', function() {
 
             '<div class="tab" id="tab-4">' +
             '<div class="content">' +
-            '<iframe width="560" height="315" src="https://www.youtube.com/embed/2NFQlXNir_o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>'+
             '<div class="tabtitle">' +
-            '<b>Interview</b>' +            
+            '<h3>Interview</h3>' +      
+            '<iframe width="560" height="315" src="https://www.youtube.com/embed/2NFQlXNir_o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>'+            
+            '<h2>Bato Mosque, Marawi City, Philippines - December 2022</h2>' +      
             '</div>' +
             '</div>' +
             '</div>' +
     
             '<div class="tab" id="tab-5">' +
             '<div class="content">' +
-            '<iframe width="560" height="315" src="https://www.youtube.com/embed/YrMhC6nK-mM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>'+
             '<div class="tabtitle">' +
-            '<b>Aerial Shots</b>' +            
+            '<h3>Aerial View</3>' +         
+            '<iframe width="560" height="315" src="https://www.youtube.com/embed/YrMhC6nK-mM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>'+            
+            '<h2>Bato Mosque, Marawi City, Philippines - December 2022</h2>' +      
             '</div>' +
             '</div>' +
             '</div>' +
@@ -177,7 +182,7 @@ $(window).on('load', function() {
             '<li class="tab-link"> <a href="#tab-2"><span>During the Siege</span></a></li>' +
             '<li class="tab-link"> <a href="#tab-3"><span>After the Siege</span></a></li>' +
             '<li class="tab-link"> <a href="#tab-4"><span>Interview</span></a></li>' +
-            '<li class="tab-link"> <a href="#tab-5"><span>Aerial Shots</span></a></li>' +
+            '<li class="tab-link"> <a href="#tab-5"><span>Aerial View</span></a></li>' +
             '</ul>' +
       '</div>';
 
@@ -186,11 +191,13 @@ $(window).on('load', function() {
 
         '<div class="tab" id="tab-1">' +
         '<div class="content">' +
-        '<b><img src="media/grand-mosque-before.jpg"/></b>' +
         '<div class="tabtitle">' +
-        '<b> Before the Siege </b>' +
+        '<h3> Before the Siege </h3>' +
+        '<b><img src="media/grand-mosque-before.jpg"/></b>' +        
         '<div class="caption">' +
-        '<b>The Grand Mosque or Marawi City, also known as the Jameo Mindanao Al-Islamie Islamic Center, is the largest mosque not only in Marawi City but in the entire Philippines. Located along Disalongan Pangarungan Street at the heart of the Most Affected Area (MAA), its construction started in 1950 and was completed in 1970 through the support of Marawi residents, private individuals, and foreign donors. The Grand Mosque is historically and culturally significant to Mranaws. Aside from being a place of worship, the mosque also serves as an Islamic school and a place for daily Mushawara or meetings when Mranaws discuss religious, social, and political issues. In 1969, a year after the Jabidah Massacre, Mranawas and other Bangsamoro tribes held a mass protest in front of the mosque, leading to the formation of Ansar Al-Islam, a movement in defence of Islamic religion and aimed at re-establishing Islamic ideology in the Philippines. </b>' +
+        '<h2>The Grand Mosque or Marawi City, also known as the Jameo Mindanao Al-Islamie Islamic Center, is the largest mosque not only in Marawi City but in the entire Philippines. Located along Disalongan Pangarungan Street at the heart of the Most Affected Area (MAA), its construction started in 1950 and was completed in 1970 through the support of Marawi residents, private individuals, and foreign donors. The Grand Mosque is historically and culturally significant to Mranaws. Aside from being a place of worship, the mosque also serves as an Islamic school and a place for daily Mushawara or meetings when Mranaws discuss religious, social, and political issues. In 1969, a year after the Jabidah Massacre, Mranawas and other Bangsamoro tribes held a mass protest in front of the mosque, leading to the formation of Ansar Al-Islam, a movement in defence of Islamic religion and aimed at re-establishing Islamic ideology in the Philippines. </h3>' +
+        '<br> </br>' +
+        '<h4> Photo Credits: <a href="https://habagatcentral.com/"><h4> HabagatCentral </h4></a></h4>' +
         '</div>' +
         '</div>' +
         '</div>' +
@@ -198,11 +205,13 @@ $(window).on('load', function() {
 
         '<div class="tab" id="tab-2">' +
         '<div class="content">' +
-        '<b><img src="media/grand-mosque-during.jpg"/></b>' +
         '<div class="tabtitle">' +
-        '<b> During the Siege </b>' +
+        '<h3> During the Siege </h3>' +
+        '<b><img src="media/grand-mosque-during.jpg"/></b>' +        
         '<div class="caption">' +
-        '<b>The Grand Mosque became one of the first hideouts of the Maute/ASG militants during the Marawi Siege. The mosque’s two minarets, providing a bird’s eye view of the three bridges connecting the city, became the militants’ sniper nest, preventing the military to penetrate through ground operations. The military initially assured the public that religious and cultural sites will not be targeted, which contributed to the prolonged battle as the militants turned these holy sites into hideouts. Even though the military did not use air bombardments and mortar rounds on the mosque, its upper structure still sustained heavy damage.</b>' +
+        '<h2>The Grand Mosque became one of the first hideouts of the Maute/ASG militants during the Marawi Siege. The mosque’s two minarets, providing a bird’s eye view of the three bridges connecting the city, became the militants’ sniper nest, preventing the military to penetrate through ground operations. The military initially assured the public that religious and cultural sites will not be targeted, which contributed to the prolonged battle as the militants turned these holy sites into hideouts. Even though the military did not use air bombardments and mortar rounds on the mosque, its upper structure still sustained heavy damage.</h2>' +
+        '<br> </br>' +
+        '<h4>Photo Credits: Dahlia Simangan, March 2019</h4>' +
         '</div>' +
         '</div>' +
         '</div>' +
@@ -210,11 +219,13 @@ $(window).on('load', function() {
 
         '<div class="tab" id="tab-3">' +
         '<div class="content">' +
-        '<b><img src="media/grand-mosque-after.jpg"/></b>' +
         '<div class="tabtitle">' +
-        '<b>After the Siege</b>' +
+        '<h3>After the Siege</h3>' +
+        '<b><img src="media/grand-mosque-after.jpg"/></b>' +        
         '<div class="caption">' +
-        '<b>The Grand Mosque was heavily damaged during the aerial bombardment and was marked for repair and reconstruction. The repair works were completed in October 2021, when President Rodrigo Roa Duterte led the unveiling of the rehabilitated mosque, which was officially handed over to its administrators in December 2021. The old mosque’s green accents have been replaced with gold, but the Makkah-inspired open ceiling of the central lobby, which was used for Friday congregational prayers before the siege, remains.</b>' +
+        '<h2>The Grand Mosque was heavily damaged during the aerial bombardment and was marked for repair and reconstruction. The repair works were completed in October 2021, when President Rodrigo Roa Duterte led the unveiling of the rehabilitated mosque, which was officially handed over to its administrators in December 2021. The old mosque’s green accents have been replaced with gold, but the Makkah-inspired open ceiling of the central lobby, which was used for Friday congregational prayers before the siege, remains.</h2>' +
+        '<br> </br>' +
+        '<h4>Photo Credits: Dahlia Simangan, December 2022</h4>' +
         '</div>' +
         '</div>' +
         '</div>' +
@@ -222,18 +233,20 @@ $(window).on('load', function() {
 
         '<div class="tab" id="tab-4">' +
         '<div class="content">' +
-        '<iframe width="560" height="315" src="https://www.youtube.com/embed/0IcqOPdetRw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>'+
         '<div class="tabtitle">' +
-        '<b>Interview</b>' +            
+        '<h3>Interview</h3>' +  
+        '<iframe width="560" height="315" src="https://www.youtube.com/embed/0IcqOPdetRw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>'+            
+        '<h2>Grand Mosque, Marawi City, Philippines - December 2022</h2>' +          
         '</div>' +
         '</div>' +
         '</div>' +
 
         '<div class="tab" id="tab-5">' +
         '<div class="content">' +
-        '<iframe width="560" height="315" src="https://www.youtube.com/embed/330N4aragio" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>'+
         '<div class="tabtitle">' +
-        '<b>Aerial Shots</b>' +            
+        '<h3>Aerial View</h3>' +
+        '<iframe width="560" height="315" src="https://www.youtube.com/embed/330N4aragio" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>'+           
+        '<h2>Grand Mosque, Marawi City, Philippines - December 2022</h2>' +             
         '</div>' +
         '</div>' +
         '</div>' +
@@ -243,7 +256,7 @@ $(window).on('load', function() {
         '<li class="tab-link"> <a href="#tab-2"><span>During the Siege</span></a></li>' +
         '<li class="tab-link"> <a href="#tab-3"><span>After the Siege</span></a></li>' +
         '<li class="tab-link"> <a href="#tab-4"><span>Interview</span></a></li>' +
-        '<li class="tab-link"> <a href="#tab-5"><span>Aerial Shots</span></a></li>' +
+        '<li class="tab-link"> <a href="#tab-5"><span>Aerial View</span></a></li>' +
         '</ul>' +
       '</div>';  
 
@@ -252,11 +265,13 @@ $(window).on('load', function() {
 
           '<div class="tab" id="tab-1">' +
           '<div class="content">' +
-          '<b><img src="media/padian-before.jpg"/></b>' +
           '<div class="tabtitle">' +
-          '<b> Before the Siege </b>' +
+          '<h3> Before the Siege </h3>' +
+          '<b><img src="media/padian-before.jpg"/></b>' +          
           '<div class="caption">' +
-          '<b>Padian or the Grand Market is the commercial center of the entire province of Lanao del Sur. It is located in Dansalan (the old name of Marawi City) where various goods, including traditional textiles and Mranaw delicacies and antiques, are sold. Known as the trading hub for Islamic provinces in Mindanao, Padian was also previously called Dansalan, which comes from the word dansal or arrival. As the locals say, “di ka ma Mranaw o da ka makadapo sa Padian” (“You are not a Mranaw if you have not set foot at Padian”), symbolizing the economic and cultural significance of Padian.</b>' +
+          '<h2>Padian or the Grand Market is the commercial center of the entire province of Lanao del Sur. It is located in Dansalan (the old name of Marawi City) where various goods, including traditional textiles and Mranaw delicacies and antiques, are sold. Known as the trading hub for Islamic provinces in Mindanao, Padian was also previously called Dansalan, which comes from the word dansal or arrival. As the locals say, “di ka ma Mranaw o da ka makadapo sa Padian” (“You are not a Mranaw if you have not set foot at Padian”), symbolizing the economic and cultural significance of Padian.</h2>' +
+          '<br> </br>' +
+          '<h4> Photo Credits: <a href="https://www.mindanews.com/photo-of-the-day/2019/05/marawi-before-and-after-the-siege/"><h4> Bobby Timonera, May 2019 </h4></a></h4>' +
           '</div>' +
           '</div>' +
           '</div>' +
@@ -264,11 +279,13 @@ $(window).on('load', function() {
 
           '<div class="tab" id="tab-2">' +
           '<div class="content">' +
-          '<b><img src="media/padian-during.jpg"/></b>' +
           '<div class="tabtitle">' +
-          '<b> During the Siege </b>' +
+          '<h3> During the Siege </h3>' +
+          '<b><img src="media/padian-during.jpg"/></b>' +          
           '<div class="caption">' +
-          '<b>Padian served as one of the hideouts of the Maute/ASG militants during the Marawi siege. The militants were able to source their supplies, such as food, water, and medicine, from the business stalls and use the concrete underground structures of the market. These structures held the hostages and female militants who were serving as medics and cooks. Due to its proximity to the shores of Lake Lanao, the planned exit point in case of retreat, Padian was the decisive site that ended the Marawi Siege after government forces seized the militants’ final stronghold, a two-storey building next to Lake Lanao.</b>' +
+          '<h2>Padian served as one of the hideouts of the Maute/ASG militants during the Marawi siege. The militants were able to source their supplies, such as food, water, and medicine, from the business stalls and use the concrete underground structures of the market. These structures held the hostages and female militants who were serving as medics and cooks. Due to its proximity to the shores of Lake Lanao, the planned exit point in case of retreat, Padian was the decisive site that ended the Marawi Siege after government forces seized the militants’ final stronghold, a two-storey building next to Lake Lanao.</h2>' +
+          '<br> </br>' +
+          '<h4> Photo Credits: <a href="https://www.mindanews.com/photo-of-the-day/2019/05/marawi-before-and-after-the-siege/"><h4> Bobby Timonera, May 2019 </h4></a></h4>' +
           '</div>' +
           '</div>' +
           '</div>' +
@@ -278,9 +295,11 @@ $(window).on('load', function() {
           '<div class="content">' +
           '<b><img src="media/padian-after.jpg"/></b>' +
           '<div class="tabtitle">' +
-          '<b>After the Siege</b>' +
+          '<h3>After the Siege</h3>' +
           '<div class="caption">' +
-          '<b>The reconstruction of Padian started on December 23, 2019. The old Padian site is now transformed into a Peace Memorial Park, including a museum and a school of living traditions. Adjacent to the park is a new sports complex that can seat 3,700 spectators and a convention center for indoor events. Included in the plan is the construction of a new Grand Padian Central Market, a two-storey shopping mall. These new structures, which costed around PhP10 billion to build, remain empty as of December 2022 as most residents of the Most Affected Area (MAA) are yet to return.</b>' +
+          '<h2>The reconstruction of Padian started on December 23, 2019. The old Padian site is now transformed into a Peace Memorial Park, including a museum and a school of living traditions. Adjacent to the park is a new sports complex that can seat 3,700 spectators and a convention center for indoor events. Included in the plan is the construction of a new Grand Padian Central Market, a two-storey shopping mall. These new structures, which costed around PhP10 billion to build, remain empty as of December 2022 as most residents of the Most Affected Area (MAA) are yet to return.</h2>' +
+          '<br> </br>' +
+          '<h4>Photo Credits: Dahlia Simangan, December 2022</h4>' +
           '</div>' +
           '</div>' +
           '</div>' +
@@ -290,20 +309,24 @@ $(window).on('load', function() {
           '<div class="content">' +
           '<iframe width="560" height="315" src="https://www.youtube.com/embed/ERb2sZ0Z-u4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>'+
           '<div class="tabtitle">' +
-          '<b>Interview</b>' +            
+          '<h3>Interview</h3>' +     
+          '<h2>Padian, Marawi City, Philippines - December 2022</h2>' +       
           '</div>' +
           '</div>' +
           '</div>' +
 
           '<div class="tab" id="tab-5">' +
           '<div class="content">' +
+          '<h3>Aerial Views</h3>' +    
           '<iframe width="560" height="315" src="https://www.youtube.com/embed/HCySbN_wXyo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>'+
-          '<b> Convention Center, Marawi City </b>' +
+          '<h2> Convention Center, Marawi City - December 2022</h2>' +
+          '<br> </br>' +
           '<iframe width="560" height="315" src="https://www.youtube.com/embed/4BTz1v59TBU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>'+
-          '<b> Peace Park, Marawi City </b>' +
+          '<h2> Peace Park, Marawi City - December 2022 </h2>' +
+          '<br> </br>' +
           '<iframe width="560" height="315" src="https://www.youtube.com/embed/oM8ulHyhS_U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>'+
-          '<b>Sports Complex, Marawi City</b>' + 
-          '<div class="tabtitle">' +                     
+          '<h2>Sports Complex, Marawi City - December 2022 </h2>' + 
+          '<div class="tabtitle">' +                         
           '</div>' +
           '</div>' +
           '</div>' +
@@ -313,7 +336,7 @@ $(window).on('load', function() {
           '<li class="tab-link"> <a href="#tab-2"><span>During the Siege</span></a></li>' +
           '<li class="tab-link"> <a href="#tab-3"><span>After the Siege</span></a></li>' +
           '<li class="tab-link"> <a href="#tab-4"><span>Interview</span></a></li>' +
-          '<li class="tab-link"> <a href="#tab-5"><span>Aerial Shots</span></a></li>' +
+          '<li class="tab-link"> <a href="#tab-5"><span>Aerial Views</span></a></li>' +
           '</ul>' +
       '</div>';  
 
@@ -322,11 +345,13 @@ $(window).on('load', function() {
 
         '<div class="tab" id="tab-1">' +
         '<div class="content">' +
-        '<b><img src="media/st-marys-cathedral-before.jpg"/></b>' +
         '<div class="tabtitle">' +
-        '<b> Before the Siege </b>' +
+        '<h3> Before the Siege </h3>' +
+        '<b><img src="media/st-marys-cathedral-before.jpg"/></b>' +        
         '<div class="caption">' +
-        '<b>The Prelature of Santa Maria Auxiliadora Cathedral in Marawi City started as a parish founded by Jesuits in 1933. After the division of Lanao province into Lanao del Norte and Lanao del Sur and due to the hostile situation between Christians and Muslims, then Bishop Bienvenido Tudtud’s proposal to Rome for a separate prelature for Marawi City was approved in December 1976. And in 2001, the prelature took the name of Prelature of St. Mary’s after the city’s patron saint, Maria Auxiliadora. As a local church, it aims to facilitate dialogue between Christian and Muslim followers.</b>' +
+        '<h2>The Prelature of Santa Maria Auxiliadora Cathedral in Marawi City started as a parish founded by Jesuits in 1933. After the division of Lanao province into Lanao del Norte and Lanao del Sur and due to the hostile situation between Christians and Muslims, then Bishop Bienvenido Tudtud’s proposal to Rome for a separate prelature for Marawi City was approved in December 1976. And in 2001, the prelature took the name of Prelature of St. Mary’s after the city’s patron saint, Maria Auxiliadora. As a local church, it aims to facilitate dialogue between Christian and Muslim followers.</h2>' +
+        '<br> </br>' +
+        '<h4> Photo Credits: <a href="https://www.facebook.com/groups/Santa.Maria.Auxilladora/"><h4> St. Mary&#39s Cathedral Parish - Marawi City, Facebook page, October 2015 </h4></a></h4>' +
         '</div>' +
         '</div>' +
         '</div>' +
@@ -336,9 +361,11 @@ $(window).on('load', function() {
         '<div class="content">' +
         '<b><img src="media/st-marys-cathedral-during.jpg"/></b>' +
         '<div class="tabtitle">' +
-        '<b> During the Siege </b>' +
+        '<h3> During the Siege </h3>' +
         '<div class="caption">' +
-        '<b>St. Mary’s Cathedral was one of the first sites inside the Most Affected Area (MAA) in Marawi City that had been attacked by the Maute/ASG militants, along with the burning of Dansalan College, which is known for having Christian teachers. It was in St. Mary’s Cathedral where Fr. Teresito ‘Chito’ Soganub was abducted and later held hostage. The militants attacked the Seat of the Prelature of Marawi and destroyed the cathedral, desecrating sacred images, including its patroness, and shared through their propaganda videos.</b>' +
+        '<h2>St. Mary’s Cathedral was one of the first sites inside the Most Affected Area (MAA) in Marawi City that had been attacked by the Maute/ASG militants, along with the burning of Dansalan College, which is known for having Christian teachers. It was in St. Mary’s Cathedral where Fr. Teresito ‘Chito’ Soganub was abducted and later held hostage. The militants attacked the Seat of the Prelature of Marawi and destroyed the cathedral, desecrating sacred images, including its patroness, and shared through their propaganda videos.</h2>' +
+        '<br> </br>' +
+        '<h4> Photo Credits: <a href="https://www.heraldmalaysia.com/news/marawi-first-mass-in-st-marys-cathedral-since-end-of-siege/38604/1"><h4> Herald Malaysia, October 2017 </h4></a></h4>' +
         '</div>' +
         '</div>' +
         '</div>' +
@@ -348,9 +375,12 @@ $(window).on('load', function() {
         '<div class="content">' +
         '<b><img src="media/st-marys-cathedral-after.jpg"/></b>' +
         '<div class="tabtitle">' +
-        '<b>After the Siege</b>' +
+        '<h3>After the Siege</h3>' +
         '<div class="caption">' +
-        '<b>The reconstruction of St. Mary’s Cathedral would have to wait until all the damaged mosques in the city are rebuilt or repaired. This was the proclamation of Brother Reynaldo Barnido, the executive director of Duyog Marawi (One with Marawi), a non-governmental organization set up by the Catholic prelature for the rehabilitation of Marawi City. Bishop Edwin Angot de la Peña, the prelate of the prelature of Marawi, is also prioritizing social reconciliation rather than the physical reconstruction of the cathedral. According to Bishop de la Peña, after the rehabilitation of all the damaged mosques, the cathedral will be demolished to give way to a smaller church, symbolizing reconciliation.</b>' +
+        '<h2>The reconstruction of St. Mary’s Cathedral would have to wait until all the damaged mosques in the city are rebuilt or repaired. This was the proclamation of Brother Reynaldo Barnido, the executive director of Duyog Marawi (One with Marawi), a non-governmental organization set up by the Catholic prelature for the rehabilitation of Marawi City. Bishop Edwin Angot de la Peña, the prelate of the prelature of Marawi, is also prioritizing social reconciliation rather than the physical reconstruction of the cathedral. According to Bishop de la Peña, after the rehabilitation of all the damaged mosques, the cathedral will be demolished to give way to a smaller church, symbolizing reconciliation.</b>' +
+        '<br> </h2>' +
+        '<br> </br>' +
+        '<h4>Photo Credits: Raihan A. Yusoph, September 2021</h4>' +
         '</div>' +
         '</div>' +
         '</div>' +
@@ -358,18 +388,20 @@ $(window).on('load', function() {
 
         '<div class="tab" id="tab-4">' +
         '<div class="content">' +
-        '<iframe width="560" height="315" src="https://www.youtube.com/embed/CtMgIzxOtSY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>'+
         '<div class="tabtitle">' +
-        '<b>Interview</b>' +            
+        '<h3>Interview</h3>' +  
+        '<iframe width="560" height="315" src="https://www.youtube.com/embed/CtMgIzxOtSY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>'+
+        '<h2>St. Mary&#39s Cathedral, Marawi City, Philippines - December 2022</h2>' +                   
         '</div>' +
         '</div>' +
         '</div>' +
 
         '<div class="tab" id="tab-5">' +
         '<div class="content">' +
-        '<iframe width="560" height="315" src="https://www.youtube.com/embed/5-IWQtwXQdo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>'+
         '<div class="tabtitle">' +
-        '<b>Aerial Shots</b>' +            
+        '<h3>Aerial View</h3>' +
+        '<iframe width="560" height="315" src="https://www.youtube.com/embed/5-IWQtwXQdo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>'+        
+        '<h2>St. Mary&#39s Cathedral, Marawi City, Philippines - December 2022</h2>' +                
         '</div>' +
         '</div>' +
         '</div>' +
@@ -379,19 +411,19 @@ $(window).on('load', function() {
         '<li class="tab-link"> <a href="#tab-2"><span>During the Siege</span></a></li>' +
         '<li class="tab-link"> <a href="#tab-3"><span>After the Siege</span></a></li>' +
         '<li class="tab-link"> <a href="#tab-4"><span>Interview</span></a></li>' +
-        '<li class="tab-link"> <a href="#tab-5"><span>Aerial Shots</span></a></li>' +
+        '<li class="tab-link"> <a href="#tab-5"><span>Aerial View</span></a></li>' +
         '</ul>' +
       '</div>';  
    
       //Bridges
       var banggolo = '<div class="tabs">' +
 
-        '<div class="tab" id="tab-1">' +
-        '<div class="content">' +        
+        '<div class="tab" id="tab-1">' +        
+        '<div class="content">' +
         '<div class="tabtitle">' +
-        '<b> Before the Siege </b>' +
+        '<h3> Before the Siege </h3>' +
         '<div class="caption">' +
-        '<b>Three bridges cross Marawi’s Agus River. First is the Banggolo (Agus-1) bridge, which is the main entrance to the center of Marawi City, serving public vehicles going to Gomeza Avenue and Perez Street in Padian (Grand Market). Second is the Mapandi (Agus-2) bridge, located between Barangay Mapandi and Barangay Daguduban and used to be the exit point for public vehicles. Third is the Raya Mandaya bridge, connecting Barangay Pumping and Barangay Raya Mandaya, built to ease traffic congestion at Banggolo bridge. Traditionally, Mranaws used lansa or a small boat to transport their goods to Padian. The construction of the bridges assisted the transportation and commercial needs of the city. Former Mayor Omar Ali Solitario renamed the Banggolo, Mapandi, and Raya Mandaya bridges in 2007 into Bayabao, Baloi, and Masiu, respectively, in honor of the old principalities of Lanao.' +
+        '<h2>Three bridges cross Marawi’s Agus River. First is the Banggolo (Agus-1) bridge, which is the main entrance to the center of Marawi City, serving public vehicles going to Gomeza Avenue and Perez Street in Padian (Grand Market). Second is the Mapandi (Agus-2) bridge, located between Barangay Mapandi and Barangay Daguduban and used to be the exit point for public vehicles. Third is the Raya Madaya bridge, connecting Barangay Pumping and Barangay Raya Madaya, built to ease traffic congestion at Banggolo bridge. Traditionally, Mranaws used lansa or a small boat to transport their goods to Padian. The construction of the bridges assisted the transportation and commercial needs of the city. Former Mayor Omar Ali Solitario renamed the Banggolo, Mapandi, and Raya Madaya bridges in 2007 into Bayabao, Baloi, and Masiu, respectively, in honor of the old principalities of Lanao.</h2>' +        
         '</div>' +
         '</div>' +
         '</div>' +
@@ -399,11 +431,13 @@ $(window).on('load', function() {
 
         '<div class="tab" id="tab-2">' +
         '<div class="content">' +
-        '<b><img src="media/banggolo-bridge-during.jpeg"/></b>' +
         '<div class="tabtitle">' +
-        '<b> During the Siege </b>' +
+        '<h3> During the Siege </h3>' +
+        '<b><img src="media/banggolo-bridge-during.jpeg"/></b>' +        
         '<div class="caption">' +
-        '<b>The Maute/ASG militants took control of the Banggolo, Mapandi, and Raya Mandaya bridges during the Marawi Siege. The elevated location of the barangays near the bridges and the sniper nests that the militants installed in tall buildings, including the Grand Mosque, gave the militants a tactical advantage, hence the delay in the military’s takeover of the city. It was crucial for the military to reclaim the bridges in order to provide logistical support to its troops inside the Most Affected Area (MAA) and protect trapped civilians who were attempting to escape by crossing the bridges. After several offensives that resulted in military casualties, the military successfully took control of the three bridges in September 2017, changing the course of the battle against the militants.</b>' +
+        '<h2>The Maute/ASG militants took control of the Banggolo, Mapandi, and Raya Madaya bridges during the Marawi Siege. The elevated location of the barangays near the bridges and the sniper nests that the militants installed in tall buildings, including the Grand Mosque, gave the militants a tactical advantage, hence the delay in the military’s takeover of the city. It was crucial for the military to reclaim the bridges in order to provide logistical support to its troops inside the Most Affected Area (MAA) and protect trapped civilians who were attempting to escape by crossing the bridges. After several offensives that resulted in military casualties, the military successfully took control of the three bridges in September 2017, changing the course of the battle against the militants.</h2>' +
+        '<br> </br>' +
+        '<h4> Photo Credits: <a href="https://www.cnnphilippines.com/news/2017/09/01/Marawi-Maute-Banggolo-Bridge.html"><h4> Rex Remitio for CNN Philippines, September 2017 </h4></a></h4>' +
         '</div>' +
         '</div>' +
         '</div>' +
@@ -411,11 +445,13 @@ $(window).on('load', function() {
 
         '<div class="tab" id="tab-3">' +
         '<div class="content">' +
-        '<b><img src="media/banggolo-bridge-after.jpg"/></b>' +
         '<div class="tabtitle">' +
-        '<b> After the Siege </b>' +
+        '<h3> After the Siege </h3>' +
+        '<b><img src="media/banggolo-bridge-after.jpg"/></b>' +        
         '<div class="caption">' +
-        '<b>The Marawi Siege partially destroyed the three bridges, and their repair was prioritized to enable access to the Most Affected Area (MAA). The rehabilitation of the three bridges, including the widening of Banggolo bridge, was completed in 2022.</b>' +
+        '<h2>The Marawi Siege partially destroyed the three bridges, and their repair was prioritized to enable access to the Most Affected Area (MAA). The rehabilitation of the three bridges, including the widening of Banggolo bridge, was completed in 2022.</h2>' +
+        '<br> </br>' +
+        '<h4>Photo Credits: Dahlia Simangan, December 2022</h4>' +
         '</div>' +
         '</div>' +
         '</div>' +
@@ -423,18 +459,20 @@ $(window).on('load', function() {
 
         '<div class="tab" id="tab-4">' +
         '<div class="content">' +
-        '<iframe width="560" height="315" src="https://www.youtube.com/embed/-QseXuo-Mo0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>'+
         '<div class="tabtitle">' +
-        '<b>Interview</b>' +            
+        '<h3>Interview</h3>' + 
+        '<iframe width="560" height="315" src="https://www.youtube.com/embed/-QseXuo-Mo0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>'+     
+        '<h2>Banggolo (Bayaobao), Mapandi (Baloi) and Raya Madaya (Masiu) Bridge, Marawi City, Philippines - December 2022</h2>' +               
         '</div>' +
         '</div>' +
         '</div>' +
 
         '<div class="tab" id="tab-5">' +
         '<div class="content">' +
-        '<iframe width="560" height="315" src="https://www.youtube.com/embed/nqbHWti0ZP0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>'+
         '<div class="tabtitle">' +
-        '<b>Aerial Shots</b>' +            
+        '<h3>Aerial View</h3>' +  
+        '<iframe width="560" height="315" src="https://www.youtube.com/embed/nqbHWti0ZP0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>'+                  
+        '<h2>Banggolo (Bayabao) Bridge, Marawi City, Philippines - December 2022</h2>' +   
         '</div>' +
         '</div>' +
         '</div>' +
@@ -444,7 +482,7 @@ $(window).on('load', function() {
         '<li class="tab-link"> <a href="#tab-2"><span>During the Siege</span></a></li>' +
         '<li class="tab-link"> <a href="#tab-3"><span>After the Siege</span></a></li>' +
         '<li class="tab-link"> <a href="#tab-4"><span>Interview</span></a></li>' +
-        '<li class="tab-link"> <a href="#tab-5"><span>Aerial Shots</span></a></li>' +
+        '<li class="tab-link"> <a href="#tab-5"><span>Aerial View</span></a></li>' +
         '</ul>' +
       '</div>';  
 
@@ -453,9 +491,9 @@ $(window).on('load', function() {
       '<div class="tab" id="tab-1">' +
       '<div class="content">' +        
       '<div class="tabtitle">' +
-      '<b> Before the Siege </b>' +
+      '<h3> Before the Siege </h3>' +
       '<div class="caption">' +
-      '<b>Three bridges cross Marawi’s Agus River. First is the Banggolo (Agus-1) bridge, which is the main entrance to the center of Marawi City, serving public vehicles going to Gomeza Avenue and Perez Street in Padian (Grand Market). Second is the Mapandi (Agus-2) bridge, located between Barangay Mapandi and Barangay Daguduban and used to be the exit point for public vehicles. Third is the Raya Mandaya bridge, connecting Barangay Pumping and Barangay Raya Mandaya, built to ease traffic congestion at Banggolo bridge. Traditionally, Mranaws used lansa or a small boat to transport their goods to Padian. The construction of the bridges assisted the transportation and commercial needs of the city. Former Mayor Omar Ali Solitario renamed the Banggolo, Mapandi, and Raya Mandaya bridges in 2007 into Bayabao, Baloi, and Masiu, respectively, in honor of the old principalities of Lanao.' +
+      '<h2>Three bridges cross Marawi’s Agus River. First is the Banggolo (Agus-1) bridge, which is the main entrance to the center of Marawi City, serving public vehicles going to Gomeza Avenue and Perez Street in Padian (Grand Market). Second is the Mapandi (Agus-2) bridge, located between Barangay Mapandi and Barangay Daguduban and used to be the exit point for public vehicles. Third is the Raya Madaya bridge, connecting Barangay Pumping and Barangay Raya Madaya, built to ease traffic congestion at Banggolo bridge. Traditionally, Mranaws used lansa or a small boat to transport their goods to Padian. The construction of the bridges assisted the transportation and commercial needs of the city. Former Mayor Omar Ali Solitario renamed the Banggolo, Mapandi, and Raya Madaya bridges in 2007 into Bayabao, Baloi, and Masiu, respectively, in honor of the old principalities of Lanao.</h2>' +
       '</div>' +
       '</div>' +
       '</div>' +
@@ -463,11 +501,13 @@ $(window).on('load', function() {
 
       '<div class="tab" id="tab-2">' +
       '<div class="content">' +
-      '<b><img src="media/mapandi-bridge-during.jpeg"/></b>' +
       '<div class="tabtitle">' +
-      '<b> During the Siege </b>' +
+      '<h3> During the Siege </h3>' +
+      '<b><img src="media/mapandi-bridge-during.jpeg"/></b>' +      
       '<div class="caption">' +
-      '<b>The Maute/ASG militants took control of the Banggolo, Mapandi, and Raya Mandaya bridges during the Marawi Siege. The elevated location of the barangays near the bridges and the sniper nests that the militants installed in tall buildings, including the Grand Mosque, gave the militants a tactical advantage, hence the delay in the military’s takeover of the city. It was crucial for the military to reclaim the bridges in order to provide logistical support to its troops inside the Most Affected Area (MAA) and protect trapped civilians who were attempting to escape by crossing the bridges. After several offensives that resulted in military casualties, the military successfully took control of the three bridges in September 2017, changing the course of the battle against the militants.</b>' +
+      '<h2>The Maute/ASG militants took control of the Banggolo, Mapandi, and Raya Madaya bridges during the Marawi Siege. The elevated location of the barangays near the bridges and the sniper nests that the militants installed in tall buildings, including the Grand Mosque, gave the militants a tactical advantage, hence the delay in the military’s takeover of the city. It was crucial for the military to reclaim the bridges in order to provide logistical support to its troops inside the Most Affected Area (MAA) and protect trapped civilians who were attempting to escape by crossing the bridges. After several offensives that resulted in military casualties, the military successfully took control of the three bridges in September 2017, changing the course of the battle against the militants.</h2>' +
+      '<br> </br>' +
+      '<h4> Photo Credits: <a href="https://www.mindanews.com/top-stories/2017/10/its-over-marawi-siege-ends-exactly-five-months-later/"><h4> Froilan Gallardo for MindaNews, October 2017 </h4></a></h4>' +
       '</div>' +
       '</div>' +
       '</div>' +
@@ -477,9 +517,11 @@ $(window).on('load', function() {
       '<div class="content">' +
       '<b><img src="media/mapandi-bridge-after.jpg"/></b>' +
       '<div class="tabtitle">' +
-      '<b> After the Siege </b>' +
+      '<h3> After the Siege </h3>' +
       '<div class="caption">' +
-      '<b>The Marawi Siege partially destroyed the three bridges, and their repair was prioritized to enable access to the Most Affected Area (MAA). The rehabilitation of the three bridges, including the widening of Banggolo bridge, was completed in 2022.</b>' +
+      '<h2>The Marawi Siege partially destroyed the three bridges, and their repair was prioritized to enable access to the Most Affected Area (MAA). The rehabilitation of the three bridges, including the widening of Banggolo bridge, was completed in 2022.</h2>' +
+      '<br> </br>' +
+      '<h4>Photo Credits: Dahlia Simangan, December 2022</h4>' +
       '</div>' +
       '</div>' +
       '</div>' +
@@ -487,18 +529,20 @@ $(window).on('load', function() {
 
       '<div class="tab" id="tab-4">' +
       '<div class="content">' +
-      '<iframe width="560" height="315" src="https://www.youtube.com/embed/-QseXuo-Mo0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>'+
       '<div class="tabtitle">' +
-      '<b>Interview</b>' +            
+      '<h3>Interview</h3>' +  
+      '<iframe width="560" height="315" src="https://www.youtube.com/embed/-QseXuo-Mo0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>'+  
+      '<h2>Banggolo (Bayaobao), Mapandi (Baloi) and Raya Madaya (Masiu) Bridge, Marawi City, Philippines - December 2022</h2>' +              
       '</div>' +
       '</div>' +
       '</div>' +
 
       '<div class="tab" id="tab-5">' +
       '<div class="content">' +
-      '<iframe width="560" height="315" src="https://www.youtube.com/embed/SlETcU4QpV8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>'+
       '<div class="tabtitle">' +
-      '<b>Aerial Shots</b>' +            
+      '<h3>Aerial View</h3>' +  
+      '<iframe width="560" height="315" src="https://www.youtube.com/embed/SlETcU4QpV8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>'+              
+      '<h2>Mapandi (Baloi) Bridge, Marawi City, Philippines - December 2022</h2>' +    
       '</div>' +
       '</div>' +
       '</div>' +
@@ -508,18 +552,18 @@ $(window).on('load', function() {
       '<li class="tab-link"> <a href="#tab-2"><span>During the Siege</span></a></li>' +
       '<li class="tab-link"> <a href="#tab-3"><span>After the Siege</span></a></li>' +
       '<li class="tab-link"> <a href="#tab-4"><span>Interview</span></a></li>' +
-      '<li class="tab-link"> <a href="#tab-5"><span>Aerial Shots</span></a></li>' +
+      '<li class="tab-link"> <a href="#tab-5"><span>Aerial View</span></a></li>' +
       '</ul>' +
       '</div>'; 
       
       var rayamadaya = '<div class="tabs">' +
 
-      '<div class="tab" id="tab-1">' +
-      '<div class="content">' +        
+      '<div class="tab" id="tab-1">' +      
+      '<div class="content">' +              
       '<div class="tabtitle">' +
-      '<b> Before the Siege </b>' +
+      '<h3> Before the Siege </h3>' +
       '<div class="caption">' +
-      '<b>Three bridges cross Marawi’s Agus River. First is the Banggolo (Agus-1) bridge, which is the main entrance to the center of Marawi City, serving public vehicles going to Gomeza Avenue and Perez Street in Padian (Grand Market). Second is the Mapandi (Agus-2) bridge, located between Barangay Mapandi and Barangay Daguduban and used to be the exit point for public vehicles. Third is the Raya Mandaya bridge, connecting Barangay Pumping and Barangay Raya Mandaya, built to ease traffic congestion at Banggolo bridge. Traditionally, Mranaws used lansa or a small boat to transport their goods to Padian. The construction of the bridges assisted the transportation and commercial needs of the city. Former Mayor Omar Ali Solitario renamed the Banggolo, Mapandi, and Raya Mandaya bridges in 2007 into Bayabao, Baloi, and Masiu, respectively, in honor of the old principalities of Lanao.' +
+      '<h2>Three bridges cross Marawi’s Agus River. First is the Banggolo (Agus-1) bridge, which is the main entrance to the center of Marawi City, serving public vehicles going to Gomeza Avenue and Perez Street in Padian (Grand Market). Second is the Mapandi (Agus-2) bridge, located between Barangay Mapandi and Barangay Daguduban and used to be the exit point for public vehicles. Third is the Raya Madaya bridge, connecting Barangay Pumping and Barangay Raya Madaya, built to ease traffic congestion at Banggolo bridge. Traditionally, Mranaws used lansa or a small boat to transport their goods to Padian. The construction of the bridges assisted the transportation and commercial needs of the city. Former Mayor Omar Ali Solitario renamed the Banggolo, Mapandi, and Raya Madaya bridges in 2007 into Bayabao, Baloi, and Masiu, respectively, in honor of the old principalities of Lanao.</h2>' +
       '</div>' +
       '</div>' +
       '</div>' +
@@ -527,11 +571,13 @@ $(window).on('load', function() {
 
       '<div class="tab" id="tab-2">' +
       '<div class="content">' +
-      '<b><img src="media/raya-madaya-during.jpeg"/></b>' +
       '<div class="tabtitle">' +
-      '<b> During the Siege </b>' +
+      '<h3> During the Siege </h3>' +
+      '<b><img src="media/raya-madaya-during.jpeg"/></b>' +      
       '<div class="caption">' +
-      '<b>The Maute/ASG militants took control of the Banggolo, Mapandi, and Raya Mandaya bridges during the Marawi Siege. The elevated location of the barangays near the bridges and the sniper nests that the militants installed in tall buildings, including the Grand Mosque, gave the militants a tactical advantage, hence the delay in the military’s takeover of the city. It was crucial for the military to reclaim the bridges in order to provide logistical support to its troops inside the Most Affected Area (MAA) and protect trapped civilians who were attempting to escape by crossing the bridges. After several offensives that resulted in military casualties, the military successfully took control of the three bridges in September 2017, changing the course of the battle against the militants.</b>' +
+      '<h2>The Maute/ASG militants took control of the Banggolo, Mapandi, and Raya Madaya bridges during the Marawi Siege. The elevated location of the barangays near the bridges and the sniper nests that the militants installed in tall buildings, including the Grand Mosque, gave the militants a tactical advantage, hence the delay in the military’s takeover of the city. It was crucial for the military to reclaim the bridges in order to provide logistical support to its troops inside the Most Affected Area (MAA) and protect trapped civilians who were attempting to escape by crossing the bridges. After several offensives that resulted in military casualties, the military successfully took control of the three bridges in September 2017, changing the course of the battle against the militants.</h2>' +
+      '<br> </br>' +
+      '<h4> Photo Credits: <a href="https://news.abs-cbn.com/news/09/22/17/look-military-reclaims-masiu-bridge-in-marawi"><h4> Raphael Bosano for ABS-CBN News, September 2017 </h4></a></h4>' +
       '</div>' +
       '</div>' +
       '</div>' +
@@ -541,9 +587,11 @@ $(window).on('load', function() {
       '<div class="content">' +
       '<b><img src="media/raya-madaya-after.jpg"/></b>' +
       '<div class="tabtitle">' +
-      '<b> After the Siege </b>' +
+      '<h3> After the Siege </h3>' +
       '<div class="caption">' +
-      '<b>The Marawi Siege partially destroyed the three bridges, and their repair was prioritized to enable access to the Most Affected Area (MAA). The rehabilitation of the three bridges, including the widening of Banggolo bridge, was completed in 2022.</b>' +
+      '<h2>The Marawi Siege partially destroyed the three bridges, and their repair was prioritized to enable access to the Most Affected Area (MAA). The rehabilitation of the three bridges, including the widening of Banggolo bridge, was completed in 2022.</h2>' +
+      '<br> </br>' +
+      '<h4>Photo Credits: Dahlia Simangan, December 2022</h4>' +
       '</div>' +
       '</div>' +
       '</div>' +
@@ -551,18 +599,20 @@ $(window).on('load', function() {
 
       '<div class="tab" id="tab-4">' +
       '<div class="content">' +
-      '<iframe width="560" height="315" src="https://www.youtube.com/embed/-QseXuo-Mo0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>'+
       '<div class="tabtitle">' +
-      '<b>Interview</b>' +            
+      '<h3>Interview</h3>' +     
+      '<iframe width="560" height="315" src="https://www.youtube.com/embed/-QseXuo-Mo0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>'+       
+      '<h2>Banggolo (Bayaobao), Mapandi (Baloi) and Raya Madaya (Masiu) Bridge, Marawi City, Philippines - December 2022</h2>' +        
       '</div>' +
       '</div>' +
       '</div>' +
 
       '<div class="tab" id="tab-5">' +
       '<div class="content">' +
-      '<iframe width="560" height="315" src="https://www.youtube.com/embed/FXiZWO6BXxc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>'+
       '<div class="tabtitle">' +
-      '<b>Aerial Shots</b>' +            
+      '<h3>Aerial View</h3>' +
+      '<iframe width="560" height="315" src="https://www.youtube.com/embed/FXiZWO6BXxc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>'+
+      '<h2>Raya Madaya (Masiu) Bridge, Marawi City, Philippines - December 2022</h2>' +                      
       '</div>' +
       '</div>' +
       '</div>' +
@@ -572,7 +622,7 @@ $(window).on('load', function() {
       '<li class="tab-link"> <a href="#tab-2"><span>During the Siege</span></a></li>' +
       '<li class="tab-link"> <a href="#tab-3"><span>After the Siege</span></a></li>' +
       '<li class="tab-link"> <a href="#tab-4"><span>Interview</span></a></li>' +
-      '<li class="tab-link"> <a href="#tab-5"><span>Aerial Shots</span></a></li>' +
+      '<li class="tab-link"> <a href="#tab-5"><span>Aerial View</span></a></li>' +
       '</ul>' +
       '</div>'; 
 
@@ -862,7 +912,7 @@ $(window).on('load', function() {
 
     $('#contents').append(" \
       <div id='space-at-the-bottom'> \
-        <a href='https://urban-peacebuilding.github.io/'>  \
+        <a href='https://srcreyes.github.io/urban-peacebuilding/'>  \
           <i class='fas fa-home'></i></br> \
           <small> Home - Urban Peacebuilding </small>  \
         </a> \
@@ -932,13 +982,13 @@ $(window).on('load', function() {
     storeIcon = new customIcon({iconUrl: 'markers/store.png'});
     
     L.marker([7.99857615670883, 124.292875784581],{ icon: mosqueIcon}).bindPopup(batomosque, {maxWidth: 600}).bindTooltip("Bato Mosque").addTo(map); //Bato Mosque
-    L.marker([7.9972321, 124.2905965],{ icon: storeIcon}).bindPopup(padian, {maxWidth: 600}).bindTooltip("Padian").addTo(map); //Padian
+    L.marker([7.9972321, 124.2905965],{ icon: storeIcon}).bindPopup(padian, {maxWidth: 600}).bindTooltip("Grand Padian").addTo(map); //Padian
     L.marker([8.00080890122295, 124.293243929985],{ icon: mosqueIcon}).bindPopup(grandmosque, {maxWidth: 600}).bindTooltip("Grand Mosque").addTo(map); //Grand Mosque
-    L.marker([7.996998, 124.294523],{ icon: churchIcon}).bindPopup(cathedral, {maxWidth: 600}).bindTooltip("St. Mary's Cathedral").addTo(map);//St Mary's Cathedral
+    L.marker([7.996998, 124.294523],{ icon: churchIcon}).bindPopup(cathedral, {maxWidth: 600}).addTo(map);//St Mary's Cathedral
 
     L.marker([8.001647, 124.2893],{ icon: bridgeIcon}).bindPopup(banggolo, {maxWidth: 600}).bindTooltip("Banggolo (Bayabao) Bridge").addTo(map);//Banggolo Bridge
     L.marker([8.005059, 124.2935497],{ icon: bridgeIcon}).bindPopup(mapandi, {maxWidth: 600}).bindTooltip("Mapandi (Baloi) Bridge").addTo(map); //Mapandi Bridge
-    L.marker([8.000457, 124.2888],{ icon: bridgeIcon}).bindPopup(rayamadaya, {maxWidth: 600}).bindTooltip("Raya Mandaya (Masiu) Bridge").addTo(map);//Raya Madaya Bridge
+    L.marker([8.000457, 124.2888],{ icon: bridgeIcon}).bindPopup(rayamadaya, {maxWidth: 600}).bindTooltip("Raya Madaya (Masiu)").addTo(map);//Raya Madaya Bridge
 
     // On first load, check hash and if it contains an number, scroll down
     if (parseInt(location.hash.substr(1))) {
