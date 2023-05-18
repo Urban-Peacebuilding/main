@@ -135,7 +135,7 @@ $(window).on('load', function() {
             '<h3> During the Siege </h3>' +
             '<b><img src="media/bato-mosque-during.jpg"/></b>' +            
             '<div class="caption">' +
-            '<h2>The Dansalan Bato Ali Mosque or Bato Mosque is one of the prominent mosques in Marawi City. It was constructed in the 1950s and named after former Marawi City Mayor Sultan Bato Ali. Also called the Maahad or Jameo Dansalan Al-Islamie, the mosque is not just a place of worship but also of Islamic education, housing several classrooms in its basement. It played a central role in the Islamization of Marawi.</h2>' +
+            '<h2>The Bato Mosque was the largest logistics hub of the Maute/ASG militants. The military was able to seize the mosque from the militants after a 12-day intense shootout. The military initially assured the public that religious and cultural sites will not be targeted, which contributed to the prolonged battle as the militants turned these holy sites into hideouts. Ultimately, the aerial bombardment to flush out the militants from the city caused heavy damage to the mosques, including the Bato Mosque.</h2>' +
             '<br> </br>' +
             '<h4>Photo Credits: Dahlia Simangan, March 2019</h4>' +
             '</div>' +
@@ -195,7 +195,7 @@ $(window).on('load', function() {
         '<h3> Before the Siege </h3>' +
         '<b><img src="media/grand-mosque-before.jpg"/></b>' +        
         '<div class="caption">' +
-        '<h2>The Grand Mosque or Marawi City, also known as the Jameo Mindanao Al-Islamie Islamic Center, is the largest mosque not only in Marawi City but in the entire Philippines. Located along Disalongan Pangarungan Street at the heart of the Most Affected Area (MAA), its construction started in 1950 and was completed in 1970 through the support of Marawi residents, private individuals, and foreign donors. The Grand Mosque is historically and culturally significant to Mranaws. Aside from being a place of worship, the mosque also serves as an Islamic school and a place for daily Mushawara or meetings when Mranaws discuss religious, social, and political issues. In 1969, a year after the Jabidah Massacre, Mranawas and other Bangsamoro tribes held a mass protest in front of the mosque, leading to the formation of Ansar Al-Islam, a movement in defence of Islamic religion and aimed at re-establishing Islamic ideology in the Philippines. </h3>' +
+        '<h2>The Grand Mosque or Marawi City, also known as the Jameo Mindanao Al-Islamie Islamic Center, is the largest mosque not only in Marawi City but in the entire Philippines. Located along Disalongan Pangarungan Street at the heart of the Most Affected Area (MAA), its construction started in 1950 and was completed in 1970 through the support of Marawi residents, private individuals, and foreign donors. The Grand Mosque is historically and culturally significant to Mranaws. Aside from being a place of worship, the mosque also serves as an Islamic school and a place for daily Mushawara or meetings when Mranaws discuss religious, social, and political issues. In 1969, a year after the Jabidah Massacre, Mranawas and other Bangsamoro tribes held a mass protest in front of the mosque, leading to the formation of Ansar Al-Islam, a movement in defence of Islamic religion and aimed at re-establishing Islamic ideology in the Philippines. In 1972, Mranaws and other Bangsamoro tribes held a mass protest in front of the Grand Mosque, leading to the formation of Ansar Al-Islamie Movement, which is a response to the declaration of Martial Law.</h3>' +
         '<br> </br>' +
         '<h4> Photo Credits: <a href="https://habagatcentral.com/"><h4> HabagatCentral </h4></a></h4>' +
         '</div>' +
@@ -297,7 +297,7 @@ $(window).on('load', function() {
           '<div class="tabtitle">' +
           '<h3>After the Siege</h3>' +
           '<div class="caption">' +
-          '<h2>The reconstruction of Padian started on December 23, 2019. The old Padian site is now transformed into a Peace Memorial Park, including a museum and a school of living traditions. Adjacent to the park is a new sports complex that can seat 3,700 spectators and a convention center for indoor events. Included in the plan is the construction of a new Grand Padian Central Market, a two-storey shopping mall. These new structures, which costed around PhP10 billion to build, remain empty as of December 2022 as most residents of the Most Affected Area (MAA) are yet to return.</h2>' +
+          '<h2>The reconstruction of Padian started on December 23, 2019. The old Padian site is now transformed into a Peace Memorial Park, including a museum and a school of living traditions. Adjacent to the park is a new sports complex that can seat 3,700 spectators and a convention center for indoor events. Included in the plan is the construction of a new Grand Padian Central Market, a three-storey shopping mall. These new structures, which costed around PhP10 billion to build, remain empty as of December 2022 as most residents of the Most Affected Area (MAA) are yet to return.</h2>' +
           '<br> </br>' +
           '<h4>Photo Credits: Dahlia Simangan, December 2022</h4>' +
           '</div>' +
